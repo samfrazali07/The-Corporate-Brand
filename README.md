@@ -3,10 +3,7 @@
 A fully responsive marketing landing page built with raw HTML, CSS (Flexbox + Grid),
 and vanilla JavaScript — no UI frameworks, per Sprint 01 architecture constraints.
 
-**Live URL:** _paste your Vercel/Netlify deployed link here_
-
-![Screenshot of the deployed site](screenshot.png)
-<!-- Take a screenshot of your deployed site, save it as screenshot.png in this repo, then this will render -->
+**Live URL:** _https://the-corporate-brand-one.vercel.app/_
 
 ## Features implemented
 
@@ -38,7 +35,8 @@ classes, run a Lighthouse audit and fix any Performance/Accessibility gaps, and 
 ├── style.css
 ├── script.js
 ├── README.md
-└── Prompts.md
+├── Prompts.md
+└── image.png
 ```
 
 ## Running locally
@@ -48,8 +46,5 @@ npx serve .
 ```
 
 ## Deployment
-Deployed to Vercel/Netlify (free tier). Drag-and-drop the folder onto Netlify's
-dashboard, or run:
-```bash
-npx vercel
-```
+
+Deployed to Vercel.
